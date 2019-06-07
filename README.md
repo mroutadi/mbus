@@ -40,3 +40,4 @@ public void customObj(MyObject obj){
 ### Thanks:
 
  * [otto](square.github.io/otto/) for its beautifull coding style
+offerd to every body
